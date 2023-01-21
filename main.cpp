@@ -1,7 +1,6 @@
 ﻿//Файл main.cpp
 #include <iostream>
 #include "chat.h"
-#include "sha256.h"
 
 //В этой функции реализуется основной код
 void clientCode() {
